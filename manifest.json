@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "commit_sha": "6f1a56635c272e58afa673ede81051075380eaa7",
+  "refs": [
+    {
+      "name": "refs/heads/main",
+      "target_sha1": "6f1a56635c272e58afa673ede81051075380eaa7"
+    },
+    {
+      "name": "refs/figma/ref_mirrors/f921bd05e68b03740c450e565e0e6173e546193170b2dd404ddb6f153e9b5bf3/main",
+      "target_sha1": "938b4e85e225bba6cecc54bde0543dc1794bf64e"
+    }
+  ],
+  "packs": [
+    {
+      "uuid": "dede7e8e-4898-471d-b6dd-cb3c8c5b286f",
+      "type": "WAL",
+      "depth": 0,
+      "boundary_commits": [],
+      "object_count": 33,
+      "size_bytes": 24859,
+      "sequence_num": 0,
+      "checksum_sha1": "9b280d651112ee9160cb747579362c0a69cbb667",
+      "created_at": 1794845938
+    },
+    {
+      "uuid": "ff81468e-055e-41c9-8743-dd890d2f2d6c",
+      "type": "WAL",
+      "depth": 0,
+      "boundary_commits": [],
+      "object_count": 1,
+      "size_bytes": 294,
+      "sequence_num": 1,
+      "checksum_sha1": "4fef654f6d450b7d680ed06a806b42537ab922db",
+      "created_at": 1794845942
+    },
+    {
+      "uuid": "8bceeca4-2893-4935-aaa1-f2ff8ded830c",
+      "type": "WAL",
+      "depth": 0,
+      "boundary_commits": [],
+      "object_count": 37,
+      "size_bytes": 234168,
+      "sequence_num": 2,
+      "checksum_sha1": "2634d037f01481288446d3ed944eb23c0de61fad",
+      "created_at": 1794846052
+    }
+  ],
+  "lfs_objects": [
+    {
+      "oid": "0cbae86bdd9ca3c44ac60e89840e7710ed1a303237dedf0cc498da2ef61e4d0f",
+      "size_bytes": 361553
+    },
+    {
+      "oid": "707a67fe991a22ede4b45c395ddf9faa6b6ed9bb424b3099c3dc6853b6698d3c",
+      "size_bytes": 295053
+    },
+    {
+      "oid": "df43825ea3ed13fe8e41a1cc731133bb2193c1dea1487590d9509e816e44105b",
+      "size_bytes": 294022
+    }
+  ]
+}

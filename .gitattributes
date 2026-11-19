@@ -1,0 +1,10 @@
+*.png -filter -diff -merge -text
+*.jpg -filter -diff -merge -text
+*.jpeg -filter -diff -merge -text
+*.gif -filter -diff -merge -text
+*.webp -filter -diff -merge -text
+*.ico -filter -diff -merge -text
+*.ttf -filter -diff -merge -text
+*.otf -filter -diff -merge -text
+*.woff -filter -diff -merge -text
+*.woff2 -filter -diff -merge -text
